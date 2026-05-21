@@ -1,0 +1,10 @@
+
+{
+  "name": "Kissan AI",
+  "description": "An AI-powered agricultural companion for rural farmers providing crop guidance, disease detection, market prices, and sustainable farming tips.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
