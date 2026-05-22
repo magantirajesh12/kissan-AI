@@ -9,9 +9,9 @@
 
 ### Environment Configuration
 ```
-VITE_GEMINI_API_KEY=AIzaSyDSuaXejjlHF97vpdtr_-pFE-WVWjFztjE
-GEMINI_API_KEY=AIzaSyDSuaXejjlHF97vpdtr_-pFE-WVWjFztjE
-MONGODB_URI=mongodb+srv://magantirajesh12_db_user:Rajesh%40123@cluster0.2ziyufb.mongodb.net/kissan-ai
+VITE_GEMINI_API_KEY=your_gemini_api_key_here
+GEMINI_API_KEY=your_gemini_api_key_here
+MONGODB_URI=mongodb+srv://username:password@cluster0.mongodb.net/kissan-ai
 VITE_API_URL=http://localhost:3003
 ```
 
