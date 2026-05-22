@@ -5,11 +5,11 @@
 Your MongoDB connection string has been configured in `.env`:
 
 ```
-MONGODB_URI=mongodb+srv://magantirajesh12_db_user:Rajesh@123@cluster0.2ziyufb.mongodb.net/kissan-ai
+MONGODB_URI=mongodb+srv://username:password@cluster0.mongodb.net/kissan-ai
 ```
 
 **Database**: `kissan-ai`  
-**User**: `magantirajesh12_db_user`
+**User**: Your MongoDB Atlas username (stored in `.env`)
 
 ## Running the Application
 
